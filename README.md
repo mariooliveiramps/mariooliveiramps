@@ -16,6 +16,7 @@ You can see a preview of some of my projects here: <!--
   <img align="center" height="220em" width="410em" src="https://github-readme-stats.vercel.app/api?username=mariooliveiramps&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img align="center" height="180em" width="410em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariooliveiramps&layout=compact&langs_count=7&theme=tokyonight"/>
  </div>
+  
 <!--
 **mariooliveiramps/mariooliveiramps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
