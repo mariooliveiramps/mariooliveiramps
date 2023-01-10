@@ -1,8 +1,8 @@
 ## Olá! eu sou mário Oliveira, desenvolvedor web!
 <div align="center">
   <a href="https://github.com/mariooliveiramps">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariooliveiramps&show_icons=true&theme=tokyonighk&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariooliveiramps&langs_count=6&theme=tokyonighk&layout=compact" alt="rdeconti :: TopLangs" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mariooliveiramps&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariooliveiramps&langs_count=6&theme=dark&layout=compact" alt="rdeconti :: TopLangs" />
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Mario-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
