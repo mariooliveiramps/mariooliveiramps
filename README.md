@@ -1,7 +1,9 @@
 #Olá! eu sou mário Oliveira, desenvolvedor web!
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #Perfil
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Tenho 21 anos de idade e resido em Sergipe. Sou entusiasta por desenvolvimento web, Front-end & Back-end. Amo a área da tecnologia porque sempre fui muito curioso e determinado para enfrentar novos desafios. A área da tecnologia me chamou a atenção por ser inovadora. Podemos criar novas implementações, sites, aplicativos. Inovações que podem mudar a vida e o cotidiano de outras pessoas.
@@ -9,6 +11,7 @@ Tenho 21 anos de idade e resido em Sergipe. Sou entusiasta por desenvolvimento w
 Sou motivado a contribuir com o desenvolvimento de negócios e pessoas, gosto de fazer parte do estágio de evolução de projetos e pessoas, ético-intelectualmente. Gosto de evoluir juntamente com as pessoas, em um processo de ensinar e aprender. Sempre focado em encontrar uma solução para qualquer desafio que apareça, prezando pela simplicidade, ótimos resultados e bom relacionamento com colegas de trabalho.
 
 #GitHub Stats
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <div align="center">
@@ -18,6 +21,7 @@ Sou motivado a contribuir com o desenvolvimento de negócios e pessoas, gosto de
 </div>
   
 #Skills
+  
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   
 <div align="center" style="display: inline_block">
