@@ -15,54 +15,40 @@ Sempre focado em encontrar soluções para desafios reais, com responsabilidade,
 ## GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/mariooliveiramps">
-    <img 
-      height="160em" 
-      src="https://github-readme-stats.vercel.app/api?username=mariooliveiramps&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"
-    />
-    <img 
-      height="160em" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariooliveiramps&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=1800"
-    />
-  </a>
+
+  <img height="160em"
+  src="https://github-readme-stats.vercel.app/api?username=mariooliveiramps&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  
+  <img height="160em"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariooliveiramps&layout=compact&langs_count=8&theme=tokyonight"/>
+
 </div>
 
 ---
 
 ## Tecnologias e Ferramentas
 
-<div align="center">
-
-  <img align="center" alt="Java" height="30" width="40"
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+  <img alt="Java" height="40" width="50"
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  
-  <img align="center" alt="JavaScript" height="30" width="40"
+  <img alt="JavaScript" height="40" width="50"
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  
-  <img align="center" alt="HTML" height="30" width="40"
+  <img alt="HTML" height="40" width="50"
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  
-  <img align="center" alt="CSS" height="30" width="40"
+  <img alt="CSS" height="40" width="50"
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
-  <img align="center" alt="Bootstrap" height="30" width="40"
+  <img alt="Bootstrap" height="40" width="50"
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  
-  <img align="center" alt="MySQL" height="30" width="40"
+  <img alt="MySQL" height="40" width="50"
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  
-  <img align="center" alt="Docker" height="30" width="40"
+  <img alt="Docker" height="40" width="50"
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  
-  <img align="center" alt="Git" height="30" width="40"
+  <img alt="Git" height="40" width="50"
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  
-  <img align="center" alt="Linux" height="30" width="40"
+  <img alt="Linux" height="40" width="50"
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  
-  <img align="center" alt="Python" height="30" width="40"
+  <img alt="Python" height="40" width="50"
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-
 </div>
 
 ---
