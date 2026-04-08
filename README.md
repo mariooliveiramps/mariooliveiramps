@@ -12,7 +12,7 @@ Java, JavaScript, HTML, CSS, Bootstrap, MySQL, Docker, Git, Linux e APIs REST.
 ## 🐍 Minhas Contribuições
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mariooliveiramps/mariooliveiramps/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/mariooliveiramps/mariooliveiramps/github/workflows/github-contribution-grid-snake.svg" />
 </div>
 
 ---
