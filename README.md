@@ -1,14 +1,11 @@
-# Olá! Eu sou Mário Oliveira, Desenvolvedor Web 👨‍💻
+# Olá! Eu sou Mário Oliveira 👨‍💻
 
-## Perfil
+## Obrigado por visitar meu perfil! 😄
 
-Sou desenvolvedor web com foco em Front-end e Back-end, apaixonado por tecnologia e por resolver problemas através de soluções simples e eficientes.
+Atualmente sou analista de sistemas e estudante de Ciência da Computação. Tenho grande interesse por tecnologia, desenvolvimento de software e criação de soluções que possam facilitar o dia a dia das pessoas.
+Aqui você encontrará alguns projetos que desenvolvi ao longo da minha jornada de aprendizado e prática. Tenho experiência e venho trabalhando com linguagens e tecnologias como:
 
-Tenho experiência com desenvolvimento de sistemas web, integração com APIs, manipulação de banco de dados e criação de aplicações completas utilizando boas práticas de desenvolvimento.
-
-Sou motivado a contribuir com o desenvolvimento de negócios e pessoas, gosto de participar do crescimento de projetos e equipes, sempre prezando pela organização, qualidade do código e evolução contínua.
-
-Sempre focado em encontrar soluções para desafios reais, com responsabilidade, ética e colaboração.
+Java, JavaScript, HTML, CSS, Bootstrap, MySQL, Docker, Git, Linux e APIs REST.
 
 ---
 
@@ -64,16 +61,12 @@ Sempre focado em encontrar soluções para desafios reais, com responsabilidade,
 
 <div align="center">
 
-<a href="mailto:mario10843@outlook.com">
-<img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<a href="https://www.linkedin.com/in/mario--oliveira/" target="_blank">
-<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="https://www.instagram.com/mario10843/" target="_blank">
-<img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
+  <a href="mailto:mario10843@outlook.com">
+    <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  
+  <a href="https://www.linkedin.com/in/mario--oliveira/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 
 </div>
