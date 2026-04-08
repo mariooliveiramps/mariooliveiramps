@@ -15,13 +15,9 @@ Sempre focado em encontrar soluções para desafios reais, com responsabilidade,
 ## GitHub Stats
 
 <div align="center">
-
-  <img height="160em"
-  src="https://github-readme-stats.vercel.app/api?username=mariooliveiramps&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  
-  <img height="160em"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariooliveiramps&layout=compact&langs_count=8&theme=tokyonight"/>
-
+  <a href="https://github.com/mariooliveiramps">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mariooliveiramps&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariooliveiramps&langs_count=6&theme=dark&layout=compact" alt="rdeconti :: TopLangs" />
 </div>
 
 ---
